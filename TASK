@@ -1,0 +1,19 @@
+# Task 3 – Data Analyst Internship
+
+## Overview
+This task involves SQL-based analysis on an e-commerce database.
+
+## Files
+- `ecommerce_data.sql`: SQL script to create and populate the database.
+- `task3_queries.sql`: My SQL queries for analysis.
+- Screenshots of query results (`*.png`).
+
+## Topics Covered
+- SELECT, WHERE, GROUP BY, ORDER BY
+- JOINs
+- Subqueries
+- Views
+- Aggregate functions
+
+## Sample Query Output
+![Total Revenue Per Customer](./q1_revenue.png)
